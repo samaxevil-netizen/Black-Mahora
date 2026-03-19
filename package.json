@@ -3,11 +3,12 @@
   "version": "1.2.14",
   "description": "Hi To La vtuan",
   "main": "main.js",
+{
   "scripts": {
-    "start": "node index",
-    "login": "node login",
-    "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
-  },
+    "start": "node index.js",
+    "test": "echo \"no test\""
+  }
+}
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tandung1/Bot12.git"
